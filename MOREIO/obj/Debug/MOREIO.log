@@ -1,0 +1,37 @@
+﻿  AANController.cpp
+  Network.cpp
+  Block.cpp
+  Game.cpp
+c:\users\peter\documents\visual studio 2015\projects\moreio\moreio\src\aan\Network.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data (compiling source file src\AAN\Network.cpp)
+src\AAN\Network.cpp(47): warning C4018: '<': signed/unsigned mismatch
+src\AAN\Network.cpp(50): warning C4018: '<': signed/unsigned mismatch
+src\AAN\Network.cpp(86): warning C4018: '<': signed/unsigned mismatch
+src\AAN\Network.cpp(91): warning C4018: '<': signed/unsigned mismatch
+src\AAN\Network.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter\documents\visual studio 2015\projects\moreio\moreio\src\aan\Network.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data (compiling source file src\AAN\AANController.cpp)
+c:\users\peter\documents\visual studio 2015\projects\moreio\moreio\src\aan\Network.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data (compiling source file src\Game\Game.cpp)
+c:\users\peter\documents\visual studio 2015\projects\moreio\moreio\src\aan\GeneticAlgorithm.h(25): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file src\AAN\AANController.cpp)
+c:\users\peter\documents\visual studio 2015\projects\moreio\moreio\src\aan\GeneticAlgorithm.h(26): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file src\AAN\AANController.cpp)
+c:\users\peter\documents\visual studio 2015\projects\moreio\moreio\src\aan\GeneticAlgorithm.h(25): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file src\Game\Game.cpp)
+c:\users\peter\documents\visual studio 2015\projects\moreio\moreio\src\aan\GeneticAlgorithm.h(26): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file src\Game\Game.cpp)
+src\AAN\AANController.cpp(49): warning C4018: '<': signed/unsigned mismatch
+src\AAN\AANController.cpp(83): warning C4018: '<': signed/unsigned mismatch
+src\AAN\AANController.cpp(115): warning C4018: '<': signed/unsigned mismatch
+src\AAN\AANController.cpp(122): warning C4018: '<': signed/unsigned mismatch
+src\AAN\AANController.cpp(124): warning C4018: '<': signed/unsigned mismatch
+src\AAN\AANController.cpp(169): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  Spike.cpp
+  TextRecognition.cpp
+  Button.cpp
+  Container.cpp
+  TextBox.cpp
+  UI.cpp
+  UIElement.cpp
+  main.cpp
+  ofApp.cpp
+     Creating library bin\MOREIO_debug.lib and object bin\MOREIO_debug.exp
+  MOREIO.vcxproj -> C:\Users\Peter\Documents\Visual Studio 2015\Projects\MOREIO\MOREIO\bin\MOREIO_debug.exe
+  MOREIO.vcxproj -> bin\MOREIO_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\Peter\Documents\VS OpenFrameWorks\of_v0.9.6_vs_release\of_v0.9.6_vs_release\export\vs\Win32\
