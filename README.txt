@@ -1,3 +1,5 @@
+**This Project Was Was Designed and Submitted as part of a university course, hence the odd form of the README**
+
 This is MOREIO, an artificial neural network potentialy capable of performing various tasks, although currently is limited to playing 
 a bad platformer game over and over, which I also wrote (hastily). The name comes from MAR/IO a neural network which plays Super 
 Mario Brothers, which this ANN is inspired by but not based off of.
